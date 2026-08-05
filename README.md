@@ -14,59 +14,49 @@ I am specializing in Infrastructure, Information Security, Software Development,
 
 🚛 Transport and logistics systems
 
-🐘 PHP • Node.js • JavaScript • MariaDB
-
-🐧 Linux • Windows Server • VMware
-
-🤖 Automation and AI applied to development
-
 
 
 ## Technologies
 
-#### 👩‍💻 Languages 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,nodejs,js,ts,angular,html,css,mysql,git,github,vscode,linux,debian,windows,docker,bash,powershell&theme=dark" />
+</p>
 
-
-#### ⚙️ Frameworks / Libraries:
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=ionic&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-
-#### 💾 Databases:
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Sybase](https://img.shields.io/badge/Sybase-0072C6?style=for-the-badge&logo=sap&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-#### ⚙️ Tools:
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372922?style=for-the-badge&logo=dbeaver&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge)
-![JasperServer](https://img.shields.io/badge/JasperServer-FF6C37?style=for-the-badge&logo=jaspersoft&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
 
 ## GitHub Stats
-![Maison's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maisonsakamoto&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true) 
+<p align="center">
+  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=maisonsakamoto&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=maisonsakamoto&theme=github-dark"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=maisonsakamoto&theme=github-dark)
 
-
-#### 🚀 Projects
+## Projects
 - Sistema ERP e TMS (NFe, CTe, MDFe, Siscomex, etc.)
 - API ANTT CIOT
 - PWA Ionic
 - MkDocs
 - Infraestrutura VMware
+
+## Specializations
+
+- 🚛 Transport and Logistics Systems
+- 🏗️ System Architecture
+- ☁️ Virtualization (VMware ESXi)
+- 🐧 Linux Administration
+- 🪟 Windows Server and Active Directory
+- 🗄️ Databases (MariaDB / MySQL / SQL Server, Sybase)
+- 🔌 Integrations and APIs
+- 🤖 Automation and Artificial Intelligence
+  
 
 ## Contacts
 <a href="https://linkedin.com/in/maison-sakamoto" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maison-sakamoto" height="30" width="40" /></a>
