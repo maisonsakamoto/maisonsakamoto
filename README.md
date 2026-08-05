@@ -3,7 +3,23 @@
 
 
 ## About Me
-I am **Maison Kendi Sakamoto**, an experienced **IT Manager** specializing in Infrastructure, Information Security, Software Development, and Data Strategy. I lead and design efficient, secure, and scalable technological solutions, aligning technical excellence with business goals.
+
+#### Hi, I'm Maison
+
+**IT Manager** | Software Development Full Stack | Infrastructure
+
+I am specializing in Infrastructure, Information Security, Software Development, and Data Strategy. I lead and design efficient, secure, and scalable technological solutions, aligning technical excellence with business goals.
+
+💼 15+ years in IT
+
+🚛 Transport and logistics systems
+
+🐘 PHP • Node.js • JavaScript • MariaDB
+
+🐧 Linux • Windows Server • VMware
+
+🤖 Automation and AI applied to development
+
 
 
 ## Technologies
