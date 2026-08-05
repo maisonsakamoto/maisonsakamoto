@@ -47,8 +47,6 @@ I am specializing in Infrastructure, Information Security, Software Development,
 - Infraestrutura VMware
 
 ## Specializations
-
-- 🚛 Transport and Logistics Systems
 - 🏗️ System Architecture
 - ☁️ Virtualization (VMware ESXi)
 - 🐧 Linux Administration
