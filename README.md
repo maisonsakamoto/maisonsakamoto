@@ -42,7 +42,7 @@ I am **Maison Kendi Sakamoto**, an experienced **IT Manager** specializing in In
 ## GitHub Stats
 ![Maison's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maisonsakamoto&bg_color=121214&color=04d361&line=8257e5&point=04d361&area=true&hide_border=true) 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=maisonsakamoto&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=maisonsakamoto&theme=github-dark)
 
 
 #### 🚀 Projects
